@@ -1,0 +1,4 @@
+- 👋 Hi, my name is Burak Kağan Köksal. I'm a student at Yıldız Technical University.
+- 👀 I’m interested in coding, software developing and computers in general.
+- 🌱 I’m currently learning Python.
+- 📫 To reach me you can send a mail to this e-mail adress koksalburakkagan@gmail.com
