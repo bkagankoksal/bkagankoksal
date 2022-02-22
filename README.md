@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Burak Kağan Köksal. I'm a mathematical enginnering student at Yıldız Technical University.
 - 👀 I’m interested in coding, software developing and computers in general.
-- 🌱 I’m currently learning Kotlin, Python and SuiteScript API.
+- 🌱 I’m currently learning C#, SuiteScript API and Python casually.
 - 📫 To reach me you can send a mail to this e-mail adress koksalburakkagan@gmail.com
 - ✌️  Use https://www.linkedin.com/in/bkagankoksal/ to contact me via LinkedIn.
